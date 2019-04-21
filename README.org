@@ -27,5 +27,9 @@
 - https://github.com/StickyFingies/Doots
 - Manjaro i3
 
+** Wallpapers
+- [[https://alpha.wallhaven.cc/wallpaper/757017]]
+- [[https://alpha.wallhaven.cc/wallpaper/425907]]
+
 * Todo
 - Write interactive install script
