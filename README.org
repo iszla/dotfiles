@@ -2,31 +2,30 @@
 
 * Packages
 
-** i3-gaps - tiling wm
-** polybar - easy to configure bar
-** rofi - application launcher
-** wal - generate color-schemes
-** compton
-** ranger - file manager
-** w3m - Image previews in ranger
-** the_silver_searcher
-** rxvt-unicode
-** vim
-** emacs
-** zsh
-** oh-my-zsh
-
+- i3-gaps - tiling wm
+- polybar - easy to configure bar
+- rofi - application launcher
+- wal - generate color-schemes
+- compton
+- ranger - file manager
+- w3m - Image previews in ranger
+- the_silver_searcher
+- rxvt-unicode
+- vim
+- emacs
+- zsh
+- oh-my-zsh
 * Fun packages
-** cmatrix
+- cmatrix
 
 * Links
-** [[https://github.com/junegunn/vim-plug][Vim Plug]]
-** [[https://github.com/hlissner/doom-emacs/tree/develop][Doom Emacs]]
-** [[https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95][Zsh Extensions]]
+- [[https://github.com/junegunn/vim-plug][Vim Plug]]
+- [[https://github.com/hlissner/doom-emacs/tree/develop][Doom Emacs]]
+- [[https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95][Zsh Extensions]]
 
 * Sources
-** https://github.com/StickyFingies/Doots
-** Manjaro i3
+- https://github.com/StickyFingies/Doots
+- Manjaro i3
 
 * Todo
-** Write interactive install script
+- Write interactive install script
