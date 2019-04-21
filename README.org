@@ -14,17 +14,16 @@
 - vim
 - emacs
 - zsh
-- oh-my-zsh
-
-* Fun packages
+- neofetch
 - cmatrix
 
 * Links
 - [[https://github.com/junegunn/vim-plug][Vim Plug]]
 - [[https://github.com/hlissner/doom-emacs/tree/develop][Doom Emacs]]
+- [[https://github.com/robbyrussell/oh-my-zsh][Oh my zsh]]
 - [[https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95][Zsh Extensions]]
 
-* Sources
+* Sources/credit
 - https://github.com/StickyFingies/Doots
 - Manjaro i3
 
