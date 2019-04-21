@@ -1,0 +1,26 @@
+rofi.modi:		combi,window,drun,ssh
+rofi.combi-modi:	window,drun,ssh
+rofi.font:		source code pro 14
+rofi.theme:		~/.config/rofi/paper.rasi
+rofi.width:		40
+rofi.lines:		8
+rofi.columns:		1
+rofi.bw:		0
+rofi.location:		0
+rofi.padding:		350
+rofi.line-padding:	10
+rofi.fixed-num-lines:	true
+rofi.terminal:		rofi-sensible-terminal
+rofi.ssh-client:	ssh
+rofi.ssh-command:	{terminal} -e {ssh-client} {host}
+rofi.run-command:	{cmd}
+rofi.parse-hosts:	true
+rofi.matching:		normal
+rofi.separator-style:	dash
+rofi.hide-scrollbar:	true
+rofi.scrollbar-width:	0
+rofi.kb-mode-next:	Shift+Right,Control+Tab,Alt+l
+rofi.kb-mode-previous:	Shift+Left,Control+Shift+Tab,Alt+h
+rofi.kb-row-up:		Up,Control+p,Shift+Tab,Shift+ISO_Left_Tab,Alt+k
+rofi.kb-row-down:	Down,Control+n,Alt+j
+rofi.fullscreen:	false
