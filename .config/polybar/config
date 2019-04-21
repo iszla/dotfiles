@@ -180,7 +180,7 @@ label = %percentage_used%%
 
 [module/wlan]
 type = internal/network
-interface = net1
+interface = wlp2s0
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
@@ -239,6 +239,18 @@ label-volume-foreground = ${root.foreground}
 
 label-muted =  ---
 label-muted-foreground = #666
+
+[module/alsa]
+type = internal/alsa
+
+format-volume = <label-volume>
+label-volume =  %percentage%%
+label-volume-foreground = ${root.foreground}
+
+label-muted =  ---
+label-muted-foreground = #666
+
+mapped = true
 
 [module/battery]
 type = internal/battery
